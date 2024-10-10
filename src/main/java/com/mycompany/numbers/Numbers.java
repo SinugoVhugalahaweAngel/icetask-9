@@ -52,6 +52,12 @@ public class Numbers {
           results=num1*num2;
           break;
           
+          case 4:
+          results=num1/num2;
+          break;
+              
+          default:
+          
 }
       
          
