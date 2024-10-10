@@ -3,6 +3,7 @@
  */
 
 package com.mycompany.numbers;
+import java.util.Scanner;
 
 /**
  *
@@ -24,6 +25,10 @@ public class Numbers {
         System.out.print("====Menu=====");
         System.out.println("Enter the corresponding number of item in the menu");
         
+        System.out.println("(1) Addition");
+        System.out.println("(2) Subtraction");
+        System.out.println("(3) Division");
+        System.out.println("(4) multiplication");
        
         
     }
