@@ -43,4 +43,12 @@ public class Numbers {
           case 1:
           results=num1+num2;
           break;
+          
+          case 2:
+          results=num1-num2;
+          break;
+          
 }
+      
+         
+    
