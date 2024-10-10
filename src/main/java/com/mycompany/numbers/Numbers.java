@@ -57,8 +57,16 @@ public class Numbers {
           break;
               
           default:
+              
+              System.out.println("Calculation not recognized");
           
+      }
+      System.out.println("Answer"+ results);
+    }
+    }
 }
+          
+
       
          
     
