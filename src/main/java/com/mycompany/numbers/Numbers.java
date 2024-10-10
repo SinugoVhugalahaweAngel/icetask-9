@@ -48,6 +48,10 @@ public class Numbers {
           results=num1-num2;
           break;
           
+           case 3:
+          results=num1*num2;
+          break;
+          
 }
       
          
