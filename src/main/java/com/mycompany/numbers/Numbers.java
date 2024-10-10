@@ -30,6 +30,17 @@ public class Numbers {
         System.out.println("(3) Division");
         System.out.println("(4) multiplication");
        
+          int i =0;
+         while(i < 4){
+             i++;
         
-    }
+        System.out.print("Enter the number of your option");
+        int option= sc.nextInt();
+        
+        
+        
+      switch(option){
+          case 1:
+          results=num1+num2;
+          break;
 }
